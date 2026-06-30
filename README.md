@@ -11,8 +11,6 @@ I build full-stack applications with a focus on **AI-powered solutions**, combin
 ---
 
 ## 🚀 About Me
-
-- 🔭 Currently building **MedScan AI** — an AI-powered medical report analyzer using FastAPI, MySQL, and Groq's LLaMA models
 - 🌱 Learning about **LLMs, Transformers, CNNs, and GPU-optimized AI inference**
 - 💡 Passionate about turning real-world problems into working software
 - 🎯 Goal: Land a software development internship/role where I can apply full-stack + AI skills
